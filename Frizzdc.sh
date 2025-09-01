@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# author ---> 0xmr 
+#this script is based on the CVE-2023-45878
+
 echo "Please Enter your file name .."
 read file
 echo "    <---------"
